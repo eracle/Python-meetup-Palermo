@@ -3,7 +3,8 @@
 
 Incontro mensile degli sviluppatori del linguaggio di programmazione Python.
 
-Sei uno sviluppatore Django? Sei interessato ad incontrare altri sviluppatori? Partecipa al Python Meetup Palermo, aperto a tutti i livelli. Per migliorare la comunità locale ed il suo ecosistema.
+Sei uno sviluppatore Python? Sei interessato ad incontrare altri sviluppatori? Hai scritto solo poche linee di codice ma hai già capito che è il tuo linguaggio di programmazione preferito?
+Partecipa al Python Meetup Palermo, aperto a tutti i livelli. Per migliorare la comunità locale ed il suo ecosistema.
 
 
 
