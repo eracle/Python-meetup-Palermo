@@ -13,6 +13,7 @@ Sabato 9 Novembre, ore 11:30, [Quarto Tempo co-working](http://quartotempopalerm
 
 Registrazione [eventbrite](https://pythonmeetuppalermo.eventbrite.it ) obbligatoria;
 
+Gruppo [telegram](https://t.me/python_mu_palermo).
 
 ##### Python Meetup Palermo Passati:
   - Sabato 12 Ottobre 2019;
