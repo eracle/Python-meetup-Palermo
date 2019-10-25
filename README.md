@@ -1,6 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/ManuelRomano/Python-meetup-Palermo/master/logo.png)
 
-# Python Meetup Palermo
+# Python Meetup Palermo 
+[MeetUp](https://www.meetup.com/it-IT/Python-MeetUp-Palermo/)
 
 Incontro mensile degli sviluppatori del linguaggio di programmazione Python.
 
