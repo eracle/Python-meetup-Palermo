@@ -1,7 +1,8 @@
+[![Donations](http://img.shields.io/liberapay/receives/pypal.svg?logo=liberapay)](https://liberapay.com/pypal)
+
 ![Logo](https://raw.githubusercontent.com/ManuelRomano/Python-meetup-Palermo/master/logo.png)
 
 # Python Meetup Palermo 
-[MeetUp](https://www.meetup.com/it-IT/Python-MeetUp-Palermo/)
 
 Incontro mensile degli sviluppatori del linguaggio di programmazione Python.
 
@@ -11,13 +12,14 @@ Se ti va di parlare di Python partecipa al Python Meetup Palermo, indipendemente
 è aperto a tutti. 
 
 #### Prossimo Evento:
-Sabato 9 Novembre, ore 11:30, [Quarto Tempo co-working](http://quartotempopalermo.it/) [Via Bara All’Olivella, 67 – 90133 Palermo](https://www.google.it/maps/place/Quarto+Tempo/@38.1210235,13.3581474,17z/data=!3m1!4b1!4m2!3m1!1s0x1319e5f5be7c1543:0xb4fc509a3d8a190c)
+Sabato 21 Dicembre (TBA);
 
-Registrazione [eventbrite](https://pythonmeetuppalermo.eventbrite.it ) obbligatoria;
+Pagina [MeetUp.com](https://www.meetup.com/it-IT/Python-MeetUp-Palermo/)
 
 Gruppo [telegram](https://t.me/python_mu_palermo).
 
 ##### Python Meetup Palermo Passati:
+  - Sabato 9 Novembre 2019;
   - Sabato 12 Ottobre 2019;
   
 #### Altri eventi Palermo:
