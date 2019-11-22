@@ -11,7 +11,10 @@ Hai scritto solo poche linee di codice ma hai già capito che è il tuo linguagg
 Se ti va di parlare di Python partecipa al Python Meetup Palermo, indipendemente dal tuo livello con il linguaggio, l'incontro 
 è aperto a tutti. 
 
-#### Prossimo Evento:
+#### Prossimi Eventi:
+1° Workshop programmazione python (https://www.meetup.com/Python-MeetUp-Palermo/events/266513338/)
+
+Prossimo meetup: 
 Sabato 21 Dicembre (TBA);
 
 Pagina [MeetUp.com](https://www.meetup.com/it-IT/Python-MeetUp-Palermo/)
