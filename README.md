@@ -12,7 +12,7 @@ Se ti va di parlare di Python partecipa al Python Meetup Palermo, indipendemente
 è aperto a tutti. 
 
 #### Prossimi Eventi:
-1° Workshop programmazione python (https://www.meetup.com/Python-MeetUp-Palermo/events/266513338/)
+[1° Workshop programmazione python](https://www.meetup.com/Python-MeetUp-Palermo/events/266513338/)
 
 Prossimo meetup: 
 Sabato 21 Dicembre (TBA);
